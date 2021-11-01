@@ -1,1 +1,2 @@
-# Perythos_ROS
+Perythos is a project that seeks to develop and build an autonomous robot that can compete in the URC, currently under development, has managed to make a connection between Webots and ROS2 and has been able to obtain information from all sensors and generate a map to simulate the characteristics of the navigation test in, also is currently working on a robust system of perception, with stereo camera, lidar, gps, imu
+
